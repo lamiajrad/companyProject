@@ -1,0 +1,5 @@
+to add project to git =>  	git add societeProject
+
+to pull =>  			git pull origin master
+
+to push => 			git push
